@@ -1,0 +1,8 @@
+{
+  "name": "course_simple_server",
+  "version": "0.0.1",
+  "devDependencies": {
+    "connect": "^3.3.5",
+    "express": "^4.13.3"
+  }
+}
